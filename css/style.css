@@ -3,9 +3,7 @@
   padding: 0%;
   list-style-type: none;
   box-sizing: border-box;
-  font-family: 'Alfa Slab One', cursive;
-  font-family: 'Alfa Slab One', cursive;
-  font-family: 'Archivo Black', sans-serif;
+  font-family: 'Staatliches', cursive;
 }
 
 .header {
@@ -30,8 +28,9 @@
   z-index: 999;
 }
 
+
 .header_menu ul {
-  font-family: 'Staatliches', cursive;
+  
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

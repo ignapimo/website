@@ -306,7 +306,7 @@ body {
       background-position: top;
       background-size: 200px;
       position: relative;
-      padding: 55px;
+      padding: 80px;
       font-size: 30px;
   }
   
@@ -316,7 +316,7 @@ body {
         text-align:center;
         justify-content:center;
         margin: 70px 0;
-        
+        font-size: 30px;
     }
 
 

@@ -1,0 +1,59 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    background-color: $colorP;
+    height: 100px;
+    border-bottom:  4px solid white ;
+    background-image: url(../img/Logo.jfif);
+    background-repeat: no-repeat;
+    background-position: left;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+
+.header_menu ul {
+    font-family: 'Staatliches', cursive;
+    display:flex;
+    justify-content: flex-end;
+    list-style:none;
+
+         li a {
+        
+        margin: 60px 30px 0 0;
+        text-decoration: none;
+        font-size: 35px;
+        color: black; 
+
+         li:hover {
+            transform:scale(1.2) ;
+        
+        }
+      
+        :hover {
+            color: $colorS;
+    }
+    }
+
+             :hover {
+        color: $colorS;
+    }
+   
+
+             li ul {
+    position: absolute;
+}
+
+             li ul li {
+    display: none;
+    background-color: white;
+}
+
+             li:hover ul li  {
+    display:block
+
+}
+}
+

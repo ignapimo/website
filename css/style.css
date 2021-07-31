@@ -361,7 +361,7 @@ body {
   }
  
 .extras iframe {
-  width: 400px;
+  width: 300px;
   
 }
 
@@ -373,14 +373,16 @@ body {
 }
 
 .funiest img {
-  width: 400px;
+  width: 300px;
 }
 
 .visually-hidden {
   font-size: 20px;
 }
 
-
+.rest {
+  width: 400px;
+}
 
 
 

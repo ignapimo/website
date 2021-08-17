@@ -543,5 +543,9 @@ button p{
   background-color: white;
 }
 
+.black iframe {
+  width: auto;
+}
+
 
 }

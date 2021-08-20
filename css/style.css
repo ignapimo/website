@@ -498,8 +498,8 @@ button p{
   font-size: 20px;
 }
 
-.rest {
-  width: 400px;
+.rest img {
+  width: 350px;
 }
 
 .carousel-control-next {
@@ -531,9 +531,20 @@ button p{
 }
 
 .formulario {
-  margin: 25px;
-  padding: 10px;
+  margin:0px;
+  padding: 20px;
+  width: 360px;
 }
+
+.formulario input {
+  width: 300px;
+}
+
+.formulario textarea {
+  width: 300px;
+}
+
+
 
 .contact_form {
   padding: 0px;
@@ -546,6 +557,12 @@ button p{
 .black iframe {
   width: auto;
 }
+
+.row img {
+  width: 300px;
+  margin: 15px;
+}
+
 
 
 }
